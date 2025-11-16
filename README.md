@@ -1,1 +1,56 @@
+# Mechanical Engineering Portfolio | Nima Nouri
 
+![Profile Photo](profile.jpg) <!-- آپلود کن تو ریشه -->
+
+---
+
+## About Me
+> **Nima Nouri** — Mechanical Engineering Student, Sharif University of Technology  
+> Passionate about **mechanical design, fabrication, real-world testing**  
+> Seeking **Mechanical Design Internship at Tesla (Power Electronics)**
+
+- **Email**: [nima.nry@gmail.com](mailto:nima.nry@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/nima-nouri](https://linkedin.com/in/nima-nouri)  
+- **GitHub**: [github.com/nima-nry](https://github.com/nima-nry)  
+- **Location**: Tehran, Iran (Remote OK)
+
+---
+
+## Skills
+
+| Category | Skills |
+|--------|--------|
+| **CAD & Design** | **SOLIDWORKS** (Pro), AutoCAD |
+| **Simulation** | SOLIDWORKS Simulation, ANSYS Fluent |
+| **Programming** | **Python** (Automation), MATLAB |
+| **Fabrication** | **SMAW/GMAW Welding** (Real crane build) |
+| **Testing** | 1.6 t load test, stress analysis |
+| **Languages** | Persian (Native), English (C1), Japanese (A1) |
+
+---
+
+## Featured Projects
+
+### 1. [Telescopic Jib Crane for 3-Ton Forklift (1.5 t)](jib-crane-project)
+> **Machine Elements Design 1 – Spring 2025**  
+> 2.5 m reach, 100 mm steps, 0–45° tilt, **fully bolt-on**, real 1.6 t test  
+>  
+> [View Full Project](jib-crane-project) · [Load Test Video](jib-crane-project/video/load-test-1.6ton.mp4)
+
+---
+
+### 2. MDOF Dynamic Systems Simulation
+> Vibration analysis with MATLAB  
+> [View Code & Report](mdof-simulation)
+
+---
+
+## Extracurricular
+- **Professional Football Goalkeeper** (Iran Premier League, Div 1 & 2)  
+- **Bodybuilding & Fitness**
+
+---
+
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-2024-red)
+![Fabrication](https://img.shields.io/badge/Fabrication-Welding-blue)
+![Tested](https://img.shields.io/badge/Tested-1.6t-green)
