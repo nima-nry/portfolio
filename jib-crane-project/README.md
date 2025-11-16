@@ -21,13 +21,8 @@ Forklift-mounted telescopic jib for **EV battery handling** in Gigafactory assem
 - **Renders**: High-quality visualization 
 
 
-## Media
-- [SOLIDWORKS Models](/SOLIDWORKS)  
-- [Renders](/renders) <!-- همه عکس‌ها اینجا هستن -->
-- [Fabrication Photos](/photos)  
-- [Demo Video](/video/demo-load-test.mp4)
-
 ---
 
 **Nima Nouri** | [nima.nry@gmail.com](mailto:nima.nry@gmail.com) | [GitHub](https://github.com/nimanouri)
+
 
