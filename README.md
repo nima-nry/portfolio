@@ -6,7 +6,6 @@
 
 
 - **Email**: [nima.nry@gmail.com](mailto:nima.nry@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/nima-nouri](https://linkedin.com/in/nima-nouri)  
 - **GitHub**: [github.com/nima-nry](https://github.com/nima-nry)  
 - **Location**: Tehran, Iran (Remote OK)
 
