@@ -29,7 +29,6 @@
 > **Machine Elements Design 1 – Spring 2025**  
 > 2.5 m reach, 100 mm steps, 0–45° tilt, **fully bolt-on**, real 1.6 t test  
 >  
-> [View Full Project](jib-crane-project) · [Load Test Video](jib-crane-project/video/load-test-1.6ton.mp4)
 
 ---
 
