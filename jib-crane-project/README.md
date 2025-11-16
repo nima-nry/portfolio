@@ -19,9 +19,9 @@
 | Forklift Capacity |1.5 tons |
 | Fork Dimensions | 1 m × 120 mm × 40 mm |
 | Fork Spacing | 800 mm (c-c) |
-| Safety Factor | 1.5 |
+| Safety Factor | 4 |
 | Max Reach | 2.5 m |
-| Extension Steps | 100 mm (25 positions) |
+| Extension Steps | 100 mm (13 positions) |
 | Tilt | 0°–45° (4 steps) |
 | Mounting | **Fully bolt-on** |
 | Packaging | Fits in transport box |
@@ -30,21 +30,11 @@
 
 ## Design & Fabrication
 - **CAD**: SOLIDWORKS 2024  
-- **Telescopic**: Pin-lock, 70/80 mm square tubes  
-- **Tilt**: 4-hole pivot plate, Ø20 mm pin  
+- **Telescopic**: Pin-lock   
+- **Tilt**: 4-hole pivot plate 
 - **Materials**: ST52 steel, SMAW/GMAW  
-- **Tested**: **1.6 t real load**
 
----
-
-## Media
-- [SOLIDWORKS Models](SOLIDWORKS)  
-- [Renders](renders)  
-- [Build Photos](photos)  
-- [Load Test Video](video/load-test-1.6ton.mp4)  
-- [Full Report + BOM + Cost](docs/report.pdf)
-
----
 
 **Nima Nouri** | [nima.nry@gmail.com](mailto:nima.nry@gmail.com)
+
 
