@@ -7,7 +7,7 @@
 ## About Me
 > **Nima Nouri** — Mechanical Engineering Student, Sharif University of Technology  
 > Passionate about **mechanical design, fabrication, real-world testing**  
-> Seeking **Mechanical Design Internship at Tesla (Power Electronics)**
+
 
 - **Email**: [nima.nry@gmail.com](mailto:nima.nry@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/nima-nouri](https://linkedin.com/in/nima-nouri)  
@@ -24,7 +24,6 @@
 | **Simulation** | SOLIDWORKS Simulation, ANSYS Fluent |
 | **Programming** | **Python** (Automation), MATLAB |
 | **Fabrication** | **SMAW/GMAW Welding** (Real crane build) |
-| **Testing** | 1.6 t load test, stress analysis |
 | **Languages** | Persian (Native), English (C1), Japanese (A1) |
 
 ---
@@ -39,11 +38,6 @@
 
 ---
 
-### 2. MDOF Dynamic Systems Simulation
-> Vibration analysis with MATLAB  
-> [View Code & Report](mdof-simulation)
-
----
 
 ## Extracurricular
 - **Professional Football Goalkeeper** (Iran Premier League, Div 1 & 2)  
