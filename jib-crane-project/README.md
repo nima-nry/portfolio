@@ -16,7 +16,7 @@
 ## Key Specs
 | Parameter | Value |
 |---------|-------|
-| Forklift Capacity | 3 tons |
+| Forklift Capacity |1.5 tons |
 | Fork Dimensions | 1 m × 120 mm × 40 mm |
 | Fork Spacing | 800 mm (c-c) |
 | Safety Factor | 1.5 |
@@ -47,3 +47,4 @@
 ---
 
 **Nima Nouri** | [nima.nry@gmail.com](mailto:nima.nry@gmail.com)
+
