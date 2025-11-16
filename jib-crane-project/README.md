@@ -6,10 +6,10 @@
 
 ---
 
-## Project Brief (Machine Elements 1 – Spring 2025)
+## Project
 > **Telescopic jib mountable on 3-ton forklift forks**  
 > Lifts **1.5 t** at **2.5 m** from fork tip  
-> **Deadline**: May 27, 2025 | **Max 2 members**
+
 
 ---
 
@@ -36,5 +36,6 @@
 
 
 **Nima Nouri** | [nima.nry@gmail.com](mailto:nima.nry@gmail.com)
+
 
 
