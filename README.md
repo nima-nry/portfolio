@@ -1,9 +1,9 @@
 # Telescoping Jib Boom Crane (1.5 Ton)
 
-![Render 1](renders/1.jpg)  
-![Render 2](renders/2.jpg)  
-![Render 3](renders/3.jpg)  
-![Render 4](renders/4.jpg)
+![Render 1](1.jpg)  
+![Render 2](2.jpg)  
+![Render 3](3.jpg)  
+![Render 4](4.jpg)
 
 ## Objective
 Forklift-mounted telescopic jib for **EV battery handling** in Gigafactory assembly lines.
