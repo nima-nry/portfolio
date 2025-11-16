@@ -1,9 +1,5 @@
 # Mechanical Engineering Portfolio | Nima Nouri
 
-![Profile Photo](profile.jpg) <!-- آپلود کن تو ریشه -->
-
----
-
 ## About Me
 > **Nima Nouri** — Mechanical Engineering Student, Sharif University of Technology  
 > Passionate about **mechanical design, fabrication, real-world testing**  
