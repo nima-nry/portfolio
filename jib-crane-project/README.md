@@ -1,7 +1,7 @@
 # Telescopic Jib Crane for 3-Ton Forklift (1.5 Ton)
 
-![Render 1](render/1.jpg) ![Render 2](render/2.jpg)  
-![Render 3](render/3.jpg) ![Build Photo](render/4.jpg)
+![Render 1](renders/1.jpg) ![Render 2](renders/2.jpg)  
+![Render 3](renders/3.jpg) ![Render 4](renders/4.jpg)
 ---
 
 ## Project
@@ -34,6 +34,7 @@
 
 
 **Nima Nouri** | [nima.nry@gmail.com](mailto:nima.nry@gmail.com)
+
 
 
 
